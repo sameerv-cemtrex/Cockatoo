@@ -1,10 +1,15 @@
 {
-  "name": "Next Chrome",
-  "description": "Next.js Chrome Extension starter",
+  "name": "Cockatoo",
+  "description": "Suggests random coctails for you to enjoy",
   "version": "0.0.1",
   "manifest_version": 2,
   "browser_action": {
-    "default_title": "Next.js app",
+    "default_title": "Cockatoo",
     "default_popup": "index.html"
+  },
+  "icons": {
+    "128": "next-assets/cooktail.png",
+    "32": "next-assets/favicon-32x32.png",
+    "16": "next-assets/favicon-16x16.png"
   }
 }
