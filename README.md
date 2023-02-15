@@ -13,6 +13,8 @@ Try now.
 ## Direct use
 
 You can directly use the extension after cloning the repo and following the steps mentioned [here](https://www.freecodecamp.org/news/building-chrome-extension/) in the **Manifest.json** section. You can also create your own extension if you follow the steps written in there.
+
+To install it in your browser, in the extensions Toolbar on chrome, select `Load unpacked` (while the developer options are on) and select the *extensions* folder from the cloned repo. Now you are ready to use the extension.     
 <br><br><br>
 
 ## next-chrome
